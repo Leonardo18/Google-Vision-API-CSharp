@@ -4,7 +4,7 @@ using Google.Apis.Vision.v1;
 using Google.Apis.Vision.v1.Data;
 using System.IO;
 
-namespace GoogleVision.Autenticacao
+namespace GoogleVision.Auth
 {
     public class OAuthService
     {

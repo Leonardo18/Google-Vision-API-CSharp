@@ -1,5 +1,5 @@
 ﻿using Google.Apis.Vision.v1.Data;
-using GoogleVision.Autenticacao;
+using GoogleVision.Auth;
 using System;
 using System.Collections.Generic;
 using System.IO;

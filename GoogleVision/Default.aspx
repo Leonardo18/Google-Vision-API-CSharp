@@ -66,12 +66,12 @@
             <fieldset class="ws-servicos">
                 <legend>Request</legend>
                 <fieldset class="ws-resultados">
-                    <legend>Imagem Analisada</legend>
+                    <legend>Image Analysed</legend>
                     <img width="100%" src="PATH  IMAGE" />
                     <div class="ws-xml">                        
                     </div>
                 </fieldset>
-                <fieldset class="ws-resultados">
+                <fieldset class="ws-resultados" style="height: 393px;">
                     <legend>Response</legend>
                     <div class="ws-xml">
                        <textarea class="ws-xml-textarea"><%if (Text != null){%><%foreach (var item in Text){Response.Write(item + Environment.NewLine);}%><%}%></textarea>
