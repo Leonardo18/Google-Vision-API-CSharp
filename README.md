@@ -1,4 +1,4 @@
-# Google-Vision-API-CSharp
+# Google-Vision-Integration
 Integration with ***Google Vision API*** using ***CSharp***, with service account ***OAuth*** from ***Google Developers Console***.
 
 # To use it is necessary:
